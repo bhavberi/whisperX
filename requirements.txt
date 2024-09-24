@@ -1,8 +1,8 @@
 torch==2.0.0
 torchaudio==2.0.0
 faster-whisper==1.0.0
-transformers
-pandas
+transformers==4.39.3
+pandas==2.2.1
 setuptools>=65
 scipy==1.12.0
 nltk==3.8.1

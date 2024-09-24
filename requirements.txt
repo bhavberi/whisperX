@@ -1,7 +1,8 @@
-torch>=2
-torchaudio>=2
+torch==2.0.0
+torchaudio==2.0.0
 faster-whisper==1.0.0
 transformers
 pandas
 setuptools>=65
-nltk
+scipy==1.12.0
+nltk==3.8.1
